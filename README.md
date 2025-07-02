@@ -44,7 +44,7 @@
   </a>
 </div>
 
-🔗 Go to the account and open my (progress - Leetcode) and checkout my all questions. 
+🔗 Go to the account and Check My Progress (By clicking on Questions Solved) and checkout my all questions. 
 
 <!-- 🏁 How to Use -->
 ## 🚀 How to Use This Repo
