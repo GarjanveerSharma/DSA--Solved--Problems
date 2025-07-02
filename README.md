@@ -36,25 +36,15 @@
 <br/>
 
 <!-- 📊 LeetCode Practice -->
-## 📊 LeetCode Practice
+## 📊 LeetCode 
 
-<p align="center">
-  <!-- Clickable LeetCode logo -->
-  <a href="https://leetcode.com/garjanveer/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="60"/>
+<div align="center">
+  <a href="https://leetcode.com/garjanveersharma/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-DSA%20Profile-orange?style=for-the-badge&logo=leetcode" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <!-- Solved Problems Badge -->
-  <a href="https://leetcode.com/garjanveer/" target="_blank">
-    <img src="https://cp-logo.vercel.app/leetcode/garjanveer?logo=true" alt="LeetCode Stats" />
-  </a>
-</p>
-
-> 🔗 Click the LeetCode logo or badge above to see my full problem-solving history and stats.
-
-<br/>
+🔗 Go to the account and open my (progress - Leetcode) and checkout my all questions. 
 
 <!-- 🏁 How to Use -->
 ## 🚀 How to Use This Repo
