@@ -40,22 +40,19 @@
 
 <p align="center">
   <!-- Clickable LeetCode logo -->
-  <a href="https://leetcode.com/garjanveer/
-" target="_blank">
+  <a href="https://leetcode.com/garjanveer/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="60"/>
   </a>
 </p>
 
 <p align="center">
   <!-- Solved Problems Badge -->
-  <a href="https://leetcode.com/garjanveer/
-" target="_blank">
-    <img src="https://cp-logo.vercel.app/leetcode/https://leetcode.com/garjanveer/
-?logo=true" alt="LeetCode Stats" />
+  <a href="https://leetcode.com/garjanveer/" target="_blank">
+    <img src="https://cp-logo.vercel.app/leetcode/garjanveer?logo=true" alt="LeetCode Stats" />
   </a>
 </p>
 
-> 🔗 Click the LeetCode logo or badge to view my full problem-solving history and stats.
+> 🔗 Click the LeetCode logo or badge above to see my full problem-solving history and stats.
 
 <br/>
 
