@@ -35,13 +35,33 @@
 
 <br/>
 
+<!-- 📊 LeetCode Practice -->
+## 📊 LeetCode Practice
+
+<p align="center">
+  <!-- Clickable LeetCode logo -->
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" height="60"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- Solved Problems Badge -->
+  <a href="https://leetcode.com/YOUR_LEETCODE_USERNAME/" target="_blank">
+    <img src="https://cp-logo.vercel.app/leetcode/YOUR_LEETCODE_USERNAME?logo=true" alt="LeetCode Stats" />
+  </a>
+</p>
+
+> 🔗 Click the LeetCode logo or badge to view my full problem-solving history and stats.
+
+<br/>
 
 <!-- 🏁 How to Use -->
 ## 🚀 How to Use This Repo
 
-1. Browse through folders by topic or platform
-2. Click on any `.cpp` file to view the solution
-3. Code is commented for better understanding
+1. Browse through folders by topic or platform  
+2. Click on any `.cpp` file to view the solution  
+3. Code is commented for better understanding  
 4. Use it to learn, revise, or prepare for interviews
 
 <br/>
@@ -51,9 +71,9 @@
 
 Want to contribute? Feel free to:
 
-- Add your own optimized solutions
-- Suggest better approaches
-- Help organize the repo
+- Add your own optimized solutions  
+- Suggest better approaches  
+- Help organize the repo  
 
 Just fork this repo and raise a PR 😊
 
