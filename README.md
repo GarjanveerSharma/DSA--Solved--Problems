@@ -7,8 +7,8 @@
 
 <!-- 📚 Description -->
 <p align="center">
-🚀 This repository contains all the <b>Data Structures and Algorithms</b> problems I’ve solved on platforms like <b>LeetCode, CodeStudio, GFG</b> and more.<br/>
-🧠 Each solution is neatly organized by topic, with clean and optimized code in <b>C++</b> (and sometimes other languages).<br/>
+🚀 This repository contains all the <b>Data Structures and Algorithms</b> problems I’ve solved on platforms like <b>LeetCode,GFG</b> <br/>
+🧠 Each solution is neatly organized by topic, with clean and optimized code in <b>C++</b> .<br/>
 </p>
 
 <br/>
@@ -17,7 +17,7 @@
 ## 📂 Table of Contents
 
 - ✅ Problem Solutions by Topic (Arrays, Strings, Trees, Graphs, etc.)
-- 🏷️ Platform-wise folders (LeetCode / GFG / InterviewBit / etc.)
+- 🏷️ Platform-wise folders (LeetCode / GFG )
 - 💡 Optimized & Well-commented code
 - 📝 Notes & Hints (wherever applicable)
 - 📌 Frequent updates
