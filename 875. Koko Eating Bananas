@@ -1,0 +1,39 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+class Solution {
+public:
+    int minEatingSpeed(vector<int>& piles, int h) {
+        long long low = 1;
+        long long high = findMax(piles);
+
+        while (low <= high) {
+            long long mid = low + (high - low) / 2;
+            long long TotalH = calculateTotalHours(piles, mid);
+
+            if (TotalH <= h) {
+                high = mid - 1;
+            } else {
+                low = mid + 1;
+            }
+        }
+        return (int)low;
+    }
+
+private:
+    long long findMax(const vector<int>& piles) {
+        long long maxi = INT_MIN;
+        for (int pile : piles) {
+            maxi = max(maxi, (long long)pile);
+        }
+        return maxi;
+    }
+
+    long long calculateTotalHours(const vector<int>& piles, long long hourly) {
+        long long TotalH = 0;
+        for (int pile : piles) {
+            TotalH += (pile + hourly - 1) / hourly;
+        }
+        return TotalH;
+    }
+};
