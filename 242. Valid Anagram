@@ -1,0 +1,12 @@
+class Solution {
+public:
+    bool isAnagram(string s, string t) { 
+    if(s.size() != t.size()) return false; 
+     
+     unordered_map<char,int>arr1 , arr2;
+        for(char ch : s) arr1[ch]++; 
+        for(char ch : t) arr2[ch]++;
+
+    return arr1 == arr2; 
+    }
+};
